@@ -54,4 +54,4 @@
 
 ## Oператоры в javascript
 
->[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikireading.ru%2F11014&psig=AOvVaw0bf--ungCnZSV5otjnZ0xv&ust=1678877141558000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNjyr_Oe2_0CFQAAAAAdAAAAABAY)\
+>![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikireading.ru%2F11014&psig=AOvVaw0bf--ungCnZSV5otjnZ0xv&ust=1678877141558000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNjyr_Oe2_0CFQAAAAAdAAAAABAY)\
