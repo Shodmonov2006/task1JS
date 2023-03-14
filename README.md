@@ -28,7 +28,9 @@
 ##  Kak запустить JavaScript?
 ### Мы можем запустит JavaScript 3 способами:
 > -1) Usign console tab of webbrowsers
+>
 > -2) Using Node.js
+>
 > -3)By creating web pages
 
 ## Переменные и константы JavaScript
@@ -43,15 +45,22 @@
 >Директива let позволяет объявить локальную переменную с областью видимости, ограниченной текущим блоком кода . В отличие от ключевого слова var (en-US), которое объявляет переменную глобально или локально во всей функции, независимо от области блока.
 
 ## ОБЪЕКТЫ И ПРИМИТИВЫ
-> -1)Number
-> -2)String
-> -3)Boolean
-> -4)Undefined
-> -5)Null
-> -6)Symbol
-> -7)Biglnd
-> -8)Object
+> - 1)Number
+>
+> - 2)String
+>
+> - 3)Boolean
+>
+> - 4)Undefined
+>
+> - 5)Null
+>
+> - 6)Symbol
+>
+> - 7)Biglnd
+>
+> - 8)Object
 
 ## Oператоры в javascript
 
->![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikireading.ru%2F11014&psig=AOvVaw0bf--ungCnZSV5otjnZ0xv&ust=1678877141558000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNjyr_Oe2_0CFQAAAAAdAAAAABAY)\
+>![](https://storage.yandexcloud.net/wr4img/272210_132_t142.png_0)
