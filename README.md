@@ -63,4 +63,4 @@
 
 ## Oператоры в javascript
 
->![](https://storage.yandexcloud.net/wr4img/272210_132_t142.png_0)
+> ![](https://storage.yandexcloud.net/wr4img/272210_132_t142.png_0)
